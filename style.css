@@ -1,0 +1,13 @@
+body{
+    background-color: #f0f2f5;
+    font-family: 'Roboto',sans-serif;
+
+}
+
+.card-container{
+    width: 320px;
+    height: 400px;
+    position: relative;
+    overflow: hidden;
+
+}
